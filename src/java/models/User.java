@@ -5,11 +5,13 @@
  */
 package models;
 
+import java.io.Serializable;
+
 /**
  *
  * @author 718707
  */
-public class User {
+public class User{
     private String username;
     private String password;
     
